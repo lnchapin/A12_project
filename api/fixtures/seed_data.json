@@ -90,5 +90,56 @@
       "questions_text": "Is there anything you wish you would have learned at Pathways to help your in your current career or education?"
     }
   },
-  
+  {
+    "model": "api.students",
+    "pk":"1",
+    "fields":{
+      "students_id": "1",
+      "class_name":"F2017",
+      "first_name":"Kyle",
+      "last_name": "Reubendale",
+      "phone": "+15038902873",
+      "email": "kyle.reubendale@gmail.com",
+      "class_id_id":"1"
+    }
+  },
+  {
+    "model": "api.students",
+    "pk":"2",
+    "fields":{
+      "students_id": "2",
+      "class_name":"F2017",
+      "first_name":"lindsay",
+      "last_name": "Chapin",
+      "phone": "+13072863435",
+      "email": "lnchapin@gmail.com",
+      "class_id_id":"1"
+    }
+  },
+  {
+    "model": "api.students",
+    "pk":"3",
+    "fields":{
+      "students_id": "3",
+      "class_name":"F2017",
+      "first_name":"Josh",
+      "last_name": "Saunders",
+      "phone": "+12072130205",
+      "email": "kyle.reubendale@gmail.com",
+      "class_id_id":"1"
+    }
+  },
+  {
+    "model": "api.students",
+    "pk":"4",
+    "fields":{
+      "students_id": "4",
+      "class_name":"F2017",
+      "first_name":"Joscelyn",
+      "last_name": "James",
+      "phone": "+13036380055",
+      "email": "kyle.reubendale@gmail.com",
+      "class_id_id":"1"
+    }
+  }
 ]
